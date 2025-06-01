@@ -1,0 +1,1 @@
+Please act as a summarizer and summarize the following paragraph into one concise paragraph. Focus on capturing the core message, eliminate redundancies, and present the information clearly while maintaining accuracy:"[explanation]".
