@@ -1,9 +1,3 @@
-{
-    "module_name": "Awesome Module",
-    "module_type": "module",
-    "module_description": "This new module is designed to solve this great ML task and is crafted with a lot of care and love.",
-    "module_slug": "{{ cookiecutter.module_name|lower|replace(' ', '_') }}",
-    "module_class_name": "{{ cookiecutter.module_name|replace(' ', '') }}",
-    "namespace": "",
-    "dataset_name": ""
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0090975bf89446c2e0c7711d97dab28b35b2cee0bc78fd6ad00a64931c62e919
+size 395
