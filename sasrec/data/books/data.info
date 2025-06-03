@@ -1,0 +1,1 @@
+{"n_users": 1760, "n_items": 2452, "n_lines_train": 52714, "id_added_one": 0, "train_file_format": "user-item", "n_lines_valid": 5650, "valid_file_format": "user-item", "n_lines_test": 2920, "test_file_format": "user-item", "n_lines_user_history": 1760, "user_history_file_format": "user-item_seq"}
